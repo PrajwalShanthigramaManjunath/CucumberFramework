@@ -11,7 +11,7 @@ Automation project on booking up to a declined payment on https://www.ryanair.co
   - TestNG
   # Requirements
 - Maven 3.6.3
-- JavaSE-1.7(jdk-15.0.1)
+- jdk-15.0.1
 - Firefox
 
 # Webdriver
